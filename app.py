@@ -4,7 +4,6 @@ import pandas as pd
 
 st.set_page_config(layout="wide", page_title="scraper de livros", page_icon='📚')
 st.title("📚 Scraper de livros")
-st.write("Clique no botão para coletar dados do site books to scrape.")
 
 st.divider()
 
