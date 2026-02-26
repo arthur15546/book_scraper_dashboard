@@ -25,4 +25,4 @@ This project is a web scraping application that extracts book data from the Book
 - ## 🌐 Live Demo
 
 **Access the app here:**  
-[ADD YOUR STREAMLIT LINK HERE]
+https://bookscraperdashboard.streamlit.app/
