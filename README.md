@@ -1,2 +1,28 @@
-# book_scraper_dashboard
-A web scraping project that collects book data from Books to Scrape using Playwright and displays it in an interactive dashboard built with Streamlit. The application provides insights such as price averages, ratings, and visualizations.
+# 📚 Book Scraper Dashboard
+
+This project is a web scraping application that extracts book data from the Books to Scrape website and presents it in an interactive dashboard.
+
+## 🚀 Features
+
+- Scrapes book data using Playwright
+- Extracts:
+  - Book title
+  - Price
+  - Rating (converted to numeric)
+- Stores data in a CSV file
+- Interactive dashboard with:
+  - Key metrics (total books, average price, average rating)
+  - Data table
+  - Visualizations
+
+## 🛠️ Technologies Used
+
+- Python
+- Playwright
+- Streamlit
+- Pandas
+
+- ## 🌐 Live Demo
+
+**Access the app here:**  
+[ADD YOUR STREAMLIT LINK HERE]
