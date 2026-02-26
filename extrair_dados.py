@@ -3,7 +3,7 @@ import csv
 
 def coleta():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
         page = browser.new_page()
         page.goto("https://books.toscrape.com")
 
